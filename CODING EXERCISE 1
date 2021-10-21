@@ -1,21 +1,14 @@
-package myLife;
+package myInfo;
 
-class myCampusLife {
+class Personal {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("6:00 a.m : Bangun Solat Subuh. ");
-		System.out.println("8.00 a.m : Breakfast.");
-		System.out.println("8:30 a.m : Attend class.");
-		System.out.println("10.00 a.m : Class end.");
-		System.out.println("11:30 a.m : Lunch.");
-		System.out.println("12:30 p.m : Attend Class ");
-		System.out.println("2:30p.m : Class end and rest for abit then Solat Zohor.");
-		System.out.println("4:00p.m : Attend class.");
-		System.out.println("5:30p.m : Class end Solat Asar");
-		System.out.println("7:30p.m : Solat Maghrib");
-		System.out.println("8:30p.m : Solat Isya' and self study (programming mostly)");
-		System.out.println("12.00a.m : Sleep");
-	}
-
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("Name : Muhammad Iman Zulhakim B. Mohd Zulkhori");
+	System.out.println("No. Matrik :288430");
+	System.out.println("Course : Bachelor of Computer Science with Honors");
+	System.out.println("Address : No.364 Lrg Desa Makmur 11/3 Tmn Desa Makmur 09600 Lunas Kedah");
+	System.out.println("Father's Name : Mohd Zulkhori B. Wahab");
+	System.out.println("Mother's Name : Marliza	Bt. Zali");
+}
 }
